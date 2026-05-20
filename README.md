@@ -13,4 +13,9 @@ Contient les scripts utilisés dans l'ouvrage.
 Regroupe l'ensemble des captures d'écran du livre afin de permettre aux lecteurs de mieux les visualiser si nécessaire.
 
 ## Erratum
-La cybersécurité évoluant rapidement, ce partie listera les éventuelles corrections à apporter à l'ouvrage qui lui est, statique.
+La cybersécurité évoluant rapidement, cette partie listera les éventuelles corrections à apporter à l'ouvrage qui lui est, statique.
+
+
+# Issues
+
+Si vous rencontrez des problèmes avec l'un des éléments présent sur ce dépôt, n'hésitez pas à ouvrir une "issue". 
